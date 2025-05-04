@@ -34,7 +34,7 @@ Nyra is a beautiful, modern, and offline AI assistant powered by a local LLM (La
 ### 1. Clone the Repository
 
 ### 2. Install Python Dependencies
-  - pip install -r requirements.txt
+   - pip install -r requirements.txt
 Or manually install:
   - pip install customtkinter requests pillow
     
